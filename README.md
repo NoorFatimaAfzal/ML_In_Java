@@ -16,4 +16,4 @@ This repository is dedicated to providing a comprehensive collection of machine 
 To use this library, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/NoorFatimaAfzal/ML_classes_Java
+git clone https://github.com/NoorFatimaAfzal/ML_In_Java
