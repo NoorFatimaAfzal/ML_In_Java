@@ -16,4 +16,4 @@ This repository is dedicated to providing a comprehensive collection of machine 
 To use this library, clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/NoorFatimaAfzal/oop-ML-)
+git clone (https://github.com/NoorFatimaAfzal/oop-ML-)
